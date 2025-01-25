@@ -117,17 +117,17 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Home Screen
 _Search repositories using the search bar._
 
-![Search Screen](https://via.placeholder.com/400x300)
+![Search Screen](screenshots/Search.png)
 
 ### Repository Details
 _View detailed information about a selected repository._
 
-![Repository Details](https://via.placeholder.com/400x300)
+![Repository Details](screenshots/details.png)
 
 ### Favorites
 _Manage your favorite repositories._
 
-![Favorites Screen](https://via.placeholder.com/400x300)
+![Favorites Screen](screenshots/favorites.png)
 
 ---
 

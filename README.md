@@ -115,8 +115,10 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 
 ### Home Screen
-_Search repositories using the search bar._
 
+![Home Screen](screenshots/home.png)
+
+### Search Screen
 ![Search Screen](screenshots/Search.png)
 
 ### Repository Details

@@ -133,25 +133,4 @@ _Manage your favorite repositories._
 
 ---
 
-## ✨ Future Enhancements
 
-- Add pagination for search results.
-- Implement dark mode for better accessibility.
-- Support for additional GitHub features like issues and pull requests.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙌 Acknowledgments
-
-- GitHub REST API documentation: [https://docs.github.com/rest](https://docs.github.com/rest)
-- React Native and Expo Documentation
-
----
-
-Feel free to customize the **Screenshots** and **GitHub URL** sections with your actual content. Let me know if you'd like further modifications!
